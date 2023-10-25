@@ -1,6 +1,7 @@
 # Adrien's Portfolio
 
 This repository houses materials used to create my B.A. (Statistics)/Data-Science Portfolio through GitPages
+To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
 # [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/adrienleon.github.io/tree/main)
 * Tech: R, polynomial regression
