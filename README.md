@@ -2,7 +2,7 @@
 
 This repository houses materials used to create my B.A. (Statistics)/Data-Science Portfolio through GitPages
 
-# Project 1: Anti-Gravity Object Position Analysis
+# [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/adrienleon.github.io/tree/main)
 * Tech: R, polynomial regression
 * Validated a physics model of anti-gravity fields using real-world data.
 * Employed R for data manipulation and visualization.
