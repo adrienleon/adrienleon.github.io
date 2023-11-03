@@ -17,7 +17,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Analyzed 4 variables, including a categorical predictor, to refine model performance.
 * Managed data sets, handling over 1,000 data points for robust analysis.
 
-# [Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Hybrid-Cars)
+# [Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
 * Tech: R, tidyverse, tidymodels, caret, logistic regression
 * Predicted gestational ages using demographic and health data.
 * Enhanced predictive models using R, achieving a 20% increase in accuracy.
