@@ -28,5 +28,5 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Utilized logistic regression, random forest, and LDA to validate model reliability.
 * Cross-validated to optimize and ensure model robustness
 * Analyzed and curated over 2,000 data points for in-depth evaluation.
-<img src="https://github.com/adrienleon/adrienleon.github.io/blob/main/images/birth_weight_vs_gestage_by_sex.pn" width="350">
+<img src="https://github.com/adrienleon/adrienleon.github.io/blob/main/images/birth_weight_vs_gestage_by_sex.png" width="350">
 <img src="https://github.com/adrienleon/adrienleon.github.io/blob/main/images/ROC_Curve.png" width="350">
