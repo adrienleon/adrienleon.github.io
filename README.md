@@ -9,7 +9,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Employed R for data manipulation and visualization.
 * Investigated object behavior over 3 time intervals, confirming or refuting the hypothesis.
 * Developed a cubic polynomial regression model to confirm the hypothesis.
-![](https://github.com/adrienleon/adrienleon.github.io/blob/main/images/polynomial_fit_plot.png)  
+<img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/polynomial_fit_plot.png" width="250">
 
 # [Project 2: Earthquake Magnitude Prediction](https://github.com/adrienleon/Earthquake-Magnitude)
 * Tech: R, linear regression, decision trees, random forests, gradient boosting
