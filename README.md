@@ -3,21 +3,21 @@
 This repository houses materials used to create my B.A. (Statistics)/Data-Science Portfolio through GitPages
 To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
-# [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/adrienleon.github.io/tree/main)
+# [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/Anti-Gravity-Object-Position)
 * Tech: R, polynomial regression
 * Validated a physics model of anti-gravity fields using real-world data.
 * Employed R for data manipulation and visualization.
 * Investigated object behavior over 3 time intervals, confirming or refuting the hypothesis.
 * Developed a cubic polynomial regression model to confirm the hypothesis.
 
-# Project 2: Earthquake Magnitude Prediction
+# [Project 2: Earthquake Magnitude Prediction](https://github.com/adrienleon/Earthquake-Magnitude)
 * Tech: R, linear regression, decision trees, random forests, gradient boosting
 * Predicted earthquake magnitudes using various modeling techniques.
 * Used R for comprehensive data analysis and predictive modeling.
 * Analyzed 4 variables, including a categorical predictor, to refine model performance.
 * Managed data sets, handling over 1,000 data points for robust analysis.
 
-# Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers
+# [Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Hybrid-Cars)
 * Tech: R, tidyverse, tidymodels, caret, logistic regression
 * Predicted gestational ages using demographic and health data.
 * Enhanced predictive models using R, achieving a 20% increase in accuracy.
