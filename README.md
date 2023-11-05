@@ -17,7 +17,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Used R for comprehensive data analysis and predictive modeling.
 * Analyzed 4 variables, including a categorical predictor, to refine model performance.
 * Managed data sets, handling over 1,000 data points for robust analysis.
-![](https://github.com/adrienleon/adrienleon.github.io/blob/main/images/residual_vs_fit_plot.png)
+
 
 # [Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
 * Tech: R, tidyverse, tidymodels, caret, logistic regression
@@ -32,3 +32,6 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
   <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/birth_weight_vs_gestage_by_sex.png" width="300">
   <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/ROC_Curve.png" width="300">
 </p>
+
+
+![](https://github.com/adrienleon/adrienleon.github.io/blob/main/images/residual_vs_fit_plot.png)
