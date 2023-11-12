@@ -3,6 +3,9 @@
 This repository houses materials used to create my B.A. (Statistics)/Data-Science Portfolio through GitPages
 To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
+# [Fair or Foul: An EDA of MLB Umpires](https://www.kaggle.com/code/adrienleon/fair-or-foul-an-eda-of-mlb-umpires)
+<img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="450">
+
 # [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/Anti-Gravity-Object-Position)
 * Tech: R, polynomial regression
 * Validated a physics model of anti-gravity fields using real-world data.
