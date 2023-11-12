@@ -4,12 +4,13 @@ This repository houses materials used to create my B.A. (Statistics)/Data-Scienc
 To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
 # [Fair or Foul: An EDA of MLB Umpires](https://www.kaggle.com/code/adrienleon/fair-or-foul-an-eda-of-mlb-umpires)
-* Data Cleaning and Preprocessing
-* Histograms for distribution of umpire accuracy
-* Identifying potential predictors of umpire accuracy
-* Highlighting top and bottom performers
-* Conducting ANOVA tests for differences in umpire accuracy
-* Performing post-hoc analysis to understand group differences
+* Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels
+* Analyzed MLB umpire decision-making data from 2015-2022, focusing on game outcomes and umpire accuracy.
+* Cleaned and preprocessed the dataset by converting data types and handling 120 non-numeric entries, maintaining data integrity.
+* Conducted exploratory data analysis (EDA), including statistical summaries, distribution visualization, and trend analysis over time.
+* Investigated umpire performance using scatter plots and statistical tests, revealing significant differences in decision-making accuracy.
+* Utilized statistical methods for in-depth analysis, including ANOVA and Tukey's HSD post-hoc tests to compare umpire performance metrics.
+* Proposed further research directions, such as umpire-specific analysis and the impact of game situations on umpire calls.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="450">
 
 # [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/Anti-Gravity-Object-Position)
