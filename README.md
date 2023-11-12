@@ -39,6 +39,6 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Cross-validated to optimize and ensure model robustness
 * Analyzed and curated over 2,000 data points for in-depth evaluation.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/birth_weight_vs_gestage_by_sex.png" width="350">
+  <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/birth_weight_vs_gestage_by_sex.png" width="450">
   <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/ROC_Curve.png" width="400">
 </p>
