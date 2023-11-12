@@ -32,8 +32,8 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 # [Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
 * **Tech: R, tidyverse, tidymodels, caret, logistic regression**
 * Predicted gestational ages using demographic and health data.
-* Enhanced predictive models using R, achieving a 20% increase in accuracy.
-* Utilized R and libraries for data analysis and model evaluation.
+* Enhanced predictive models using **R**, achieving a 20% increase in accuracy.
+* Utilized **R** and libraries for data analysis and model evaluation.
 * Designed data visualizations to clarify complex mathematical concepts.
 * Utilized logistic regression, random forest, and LDA to validate model reliability.
 * Cross-validated to optimize and ensure model robustness
