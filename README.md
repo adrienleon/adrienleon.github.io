@@ -4,6 +4,12 @@ This repository houses materials used to create my B.A. (Statistics)/Data-Scienc
 To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
 # [Fair or Foul: An EDA of MLB Umpires](https://www.kaggle.com/code/adrienleon/fair-or-foul-an-eda-of-mlb-umpires)
+* Data Cleaning and Preprocessing
+* Histograms for distribution of umpire accuracy
+* Identifying potential predictors of umpire accuracy
+* Highlighting top and bottom performers
+* Conducting ANOVA tests for differences in umpire accuracy
+* Performing post-hoc analysis to understand group differences
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="450">
 
 # [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/Anti-Gravity-Object-Position)
