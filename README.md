@@ -4,7 +4,7 @@ This repository houses materials used to create my B.A. (Statistics)/Data-Scienc
 To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 
 # [Fair or Foul: An EDA of MLB Umpires](https://www.kaggle.com/code/adrienleon/fair-or-foul-an-eda-of-mlb-umpires)
-* Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels
+* **Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels**
 * Analyzed MLB umpire decision-making data from 2015-2022, focusing on game outcomes and umpire accuracy.
 * Cleaned and preprocessed the dataset by converting data types and handling 120 non-numeric entries, maintaining data integrity.
 * Conducted exploratory data analysis (EDA), including statistical summaries, distribution visualization, and trend analysis over time.
@@ -14,23 +14,23 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="450">
 
 # [Anti-Gravity Object Position Analysis](https://github.com/adrienleon/Anti-Gravity-Object-Position)
-* Tech: R, polynomial regression
+* **Tech: R, polynomial regression**
 * Validated a physics model of anti-gravity fields using real-world data.
-* Employed R for data manipulation and visualization.
+* Employed **R** for data manipulation and visualization.
 * Investigated object behavior over 3 time intervals, confirming or refuting the hypothesis.
 * Developed a cubic polynomial regression model to confirm the hypothesis.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/polynomial_fit_plot.png" width="450">
 
 # [Earthquake Magnitude Prediction](https://github.com/adrienleon/Earthquake-Magnitude)
-* Tech: R, linear regression, decision trees, random forests, gradient boosting
+* **Tech: R, linear regression, decision trees, random forests, gradient boosting**
 * Predicted earthquake magnitudes using various modeling techniques.
-* Used R for comprehensive data analysis and predictive modeling.
+* Used **R** for comprehensive data analysis and predictive modeling.
 * Analyzed 4 variables, including a categorical predictor, to refine model performance.
 * Managed data sets, handling over 1,000 data points for robust analysis.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/residual_vs_fit_plot.png" width="400">
 
 # [Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
-* Tech: R, tidyverse, tidymodels, caret, logistic regression
+* **Tech: R, tidyverse, tidymodels, caret, logistic regression**
 * Predicted gestational ages using demographic and health data.
 * Enhanced predictive models using R, achieving a 20% increase in accuracy.
 * Utilized R and libraries for data analysis and model evaluation.
