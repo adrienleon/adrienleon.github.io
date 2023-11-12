@@ -13,7 +13,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Proposed further research directions, such as umpire-specific analysis and the impact of game situations on umpire calls.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="450">
 
-# [Project 1: Anti-Gravity Object Position Analysis: Project Overview](https://github.com/adrienleon/Anti-Gravity-Object-Position)
+# [Anti-Gravity Object Position Analysis](https://github.com/adrienleon/Anti-Gravity-Object-Position)
 * Tech: R, polynomial regression
 * Validated a physics model of anti-gravity fields using real-world data.
 * Employed R for data manipulation and visualization.
@@ -21,7 +21,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Developed a cubic polynomial regression model to confirm the hypothesis.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/polynomial_fit_plot.png" width="450">
 
-# [Project 2: Earthquake Magnitude Prediction](https://github.com/adrienleon/Earthquake-Magnitude)
+# [Earthquake Magnitude Prediction](https://github.com/adrienleon/Earthquake-Magnitude)
 * Tech: R, linear regression, decision trees, random forests, gradient boosting
 * Predicted earthquake magnitudes using various modeling techniques.
 * Used R for comprehensive data analysis and predictive modeling.
@@ -29,7 +29,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 * Managed data sets, handling over 1,000 data points for robust analysis.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/residual_vs_fit_plot.png" width="400">
 
-# [Project 3: Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
+# [Predictive Modeling for Gestational Age & Hybrid Drivers](https://github.com/adrienleon/Predictive-Modeling-for-Gestational-Age-Hybrid-Drivers)
 * Tech: R, tidyverse, tidymodels, caret, logistic regression
 * Predicted gestational ages using demographic and health data.
 * Enhanced predictive models using R, achieving a 20% increase in accuracy.
