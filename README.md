@@ -14,7 +14,7 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="650">
 
 # [Unveiling Sleep Patterns](https://www.kaggle.com/code/adrienleon/unveiling-sleep-patterns)
-* Utilized Python, Pandas, NumPy, Matplotlib, and Seaborn for in-depth data analysis.
+* Utilized **Python, Pandas, NumPy, Matplotlib, and Seaborn** for in-depth data analysis.
 * Analyzed sleep health and lifestyle data from a dataset of over 1,000 entries.
 * Preprocessed and inspected dataset to identify and understand key variables.
 * Generated descriptive statistics to summarize data trends and patterns.
