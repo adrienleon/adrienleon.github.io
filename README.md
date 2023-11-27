@@ -14,14 +14,14 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="650">
 
 # [Unveiling Sleep Patterns](https://www.kaggle.com/code/adrienleon/unveiling-sleep-patterns)
-* **Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels**
-* Analyzed MLB umpire decision-making data from 2015-2022, focusing on game outcomes and umpire accuracy.
-* Cleaned and preprocessed the dataset by converting data types and handling 120 non-numeric entries, maintaining data integrity.
-* Conducted exploratory data analysis (EDA), including statistical summaries, distribution visualization, and trend analysis over time.
-* Investigated umpire performance using scatter plots and statistical tests, revealing significant differences in decision-making accuracy.
-* Utilized statistical methods for in-depth analysis, including ANOVA and Tukey's HSD post-hoc tests to compare umpire performance metrics.
-* Proposed further research directions, such as umpire-specific analysis and the impact of game situations on umpire calls.
-<img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="650">
+* **Tech Used**: Python, Pandas, NumPy, Matplotlib, Seaborn
+* Data Analysis: Conducted EDA on sleep health and lifestyle data.
+* Preprocessing: Loaded and inspected dataset, focusing on key variables.
+* Statistical Summary: Generated descriptive statistics for numerical data.
+* Data Visualization: Used histograms, boxplots, and scatter plots.
+* Comparative Analysis: Examined sleep patterns across demographics.
+* Focus on Sleep Disorders: Analyzed characteristics related to sleep disorders.
+<img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___7_0.png" width="650">
 
 # [Anti-Gravity Object Position Analysis](https://github.com/adrienleon/Anti-Gravity-Object-Position)
 * **Tech: R, polynomial regression**
