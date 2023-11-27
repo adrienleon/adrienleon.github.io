@@ -14,13 +14,13 @@ To view my portfolio, visit [Adrien's Portfolio](https://adrienleon.github.io/)
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___21_1.png" width="650">
 
 # [Unveiling Sleep Patterns](https://www.kaggle.com/code/adrienleon/unveiling-sleep-patterns)
-* **Tech Used**: Python, Pandas, NumPy, Matplotlib, Seaborn
-* Data Analysis: Conducted EDA on sleep health and lifestyle data.
-* Preprocessing: Loaded and inspected dataset, focusing on key variables.
-* Statistical Summary: Generated descriptive statistics for numerical data.
-* Data Visualization: Used histograms, boxplots, and scatter plots.
-* Comparative Analysis: Examined sleep patterns across demographics.
-* Focus on Sleep Disorders: Analyzed characteristics related to sleep disorders.
+* Utilized Python, Pandas, NumPy, Matplotlib, and Seaborn for in-depth data analysis.
+* Analyzed sleep health and lifestyle data from a dataset of over 1,000 entries.
+* Preprocessed and inspected dataset to identify and understand key variables.
+* Generated descriptive statistics to summarize data trends and patterns.
+* Created histograms, boxplots, and scatter plots for visual data exploration.
+* Examined sleep patterns across various demographics for comparative insights.
+* Investigated sleep disorder characteristics in a subset of the population.
 <img src="https://raw.githubusercontent.com/adrienleon/adrienleon.github.io/main/images/__results___7_0.png" width="650">
 
 # [Anti-Gravity Object Position Analysis](https://github.com/adrienleon/Anti-Gravity-Object-Position)
